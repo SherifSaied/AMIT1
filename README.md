@@ -1,2 +1,2 @@
 # AMIT1
-a7a neek^2 🖕🏻
+Temp sensor project
